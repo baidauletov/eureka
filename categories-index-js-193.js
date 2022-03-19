@@ -1,0 +1,1 @@
+(self.webpackChunkideal_succotash=self.webpackChunkideal_succotash||[]).push([[193],{434:()=>{}}]);
